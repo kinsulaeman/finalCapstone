@@ -1,0 +1,3 @@
+admin;password
+Jack;jack
+kinkin;kinkin
